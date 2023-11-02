@@ -1,0 +1,57 @@
+/* Stiluri pentru partea BackEnd(Administrare): */
+.userPhoto {
+    width: 35px;
+    display: block;
+}
+
+.new-user-button {
+    float: right;
+    margin-bottom: 20px;
+}
+
+#image-preview {
+    width: 200px;
+}
+
+.categoryImage {
+    width: 35px;
+    display: block;
+}
+
+.new-category-button {
+    float: right;
+    margin-bottom: 20px;
+}
+
+.categoryTextArea {
+    height: 200px;
+}
+
+.new-post-button {
+    float: right;
+    margin-bottom: 20px;
+}
+
+.postImage {
+    width: 35px;
+    display: block;
+}
+
+/* Stiluri pentru partea FrontEnd: */
+.card {
+    height: 100%;
+}
+
+/* .card-img-top {
+    width: 300px;
+} */
+
+/* .card-text {
+    text-align: left;
+} */
+
+.image-container {
+    width: 150px;
+    height: 150px;
+    align-self: center;
+}
